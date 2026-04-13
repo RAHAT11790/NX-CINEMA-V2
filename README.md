@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your RS project
 
-TODO: Document your project here
+VISIT RS ANIME 
+LINK:- https://rsanime03.lovable.app
