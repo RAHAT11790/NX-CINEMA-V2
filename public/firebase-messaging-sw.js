@@ -15,7 +15,7 @@ firebase.initializeApp({
 const messaging = firebase.messaging();
 const brandIcon = 'https://i.ibb.co.com/bMHP7RCr/IMG-20260413-234007-784.jpg';
 // Main published domain — always use this for notification clicks
-const MAIN_DOMAIN = 'https://';
+const MAIN_DOMAIN = 'https://nc-cinemas.vercel.app';
 
 // Handle background messages
 messaging.onBackgroundMessage((payload) => {
