@@ -24,10 +24,10 @@ export interface BrandingConfig {
 }
 
 const DEFAULT_BRANDING: BrandingConfig = {
-  siteName: "NEXTGEN CINEMA",
+  siteName: "NX CINEMA",
   siteDescription: "Your ultimate destination for watching anime series and movies.",
   siteTagline: "Premium Movie Streaming",
-  loginTitle: "NEXTGEN CINEMA",
+  loginTitle: "NX CINEMA",
   loginSubtitle: "Premium Movie Streaming",
   premiumTitle: "NEXTGEN CINEMA Premium",
   footerText: "Unlimited Series & Movies",
