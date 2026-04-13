@@ -7,7 +7,7 @@
 // --- Branding ---
 export const SITE_NAME = import.meta.env.VITE_SITE_NAME || "NEXTGEN CINEMA";
 export const SITE_DESCRIPTION = import.meta.env.VITE_SITE_DESCRIPTION || "Your ultimate destination for watching series and movies.";
-export const SITE_URL = import.meta.env.VITE_SITE_URL || "https://";
+export const SITE_URL = import.meta.env.VITE_SITE_URL || "https://nc-cinemas.vercel.app";
 export const SITE_ICON_URL = import.meta.env.VITE_SITE_ICON_URL || "https://i.ibb.co.com/bMHP7RCr/IMG-20260413-234007-784.jpg";
 
 // --- Telegram ---
