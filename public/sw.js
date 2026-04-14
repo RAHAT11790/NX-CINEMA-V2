@@ -1,6 +1,6 @@
 // Service Worker for RS ANIME - Push Notifications + Offline Downloads Page
 const CACHE_NAME = 'NEXTGEN-CINEMA-offline-1';
-const MAIN_DOMAIN = 'https://';
+const MAIN_DOMAIN = 'https://nc-cinemas.vercel.app';
 const OFFLINE_URLS = [
   '/',
   '/index.html',
