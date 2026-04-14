@@ -52,7 +52,7 @@ self.addEventListener('push', (event) => {
       const payload = event.data.json();
       if (!payload.notification && payload.data) {
         const data = payload.data;
-        const title = data.title || 'RS ANIME';
+        const title = data.title || 'NEXTGEN CINEMA';
         const contentTag = data.contentId || data.type || 'general';
         const options = {
           body: data.body || '',
