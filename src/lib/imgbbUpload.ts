@@ -1,4 +1,4 @@
-const IMGBB_API_KEY = "d5c0bce7c98c54d813bf285ffe453689";
+const IMGBB_API_KEY = "a26bed1b2fd07ba03bff75343d0834fe";
 
 export async function uploadToImgbb(file: File): Promise<string> {
   const formData = new FormData();
